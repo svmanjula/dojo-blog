@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "my new website",
+      "body": "Like many members of the Dragon Family, Dr. Amy Wood, Tiffin University’s Vice President for Enrollment Management and Student Success has never been one to shy away from new opportunities, no matter the risks or hard work associated with them. Because of this, Amy has garnered a well-earned reputation as a go-getter, so to speak. She completes each task assigned no matter the circumstances, even if it requires learning something new on the fly. This willingness to rise to the occasion has served her well during her long tenure at TU. According to her however, there is another cause for this ambition. Amy claims that as a woman, she has often had to work twice as hard as her male counterparts to be offered a seat at the proverbial table, and asserts that this remains an unfortunate reality for many female professionals",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "welcome party",
+      "body": "Like many members of the Dragon Family, Dr. Amy Wood, Tiffin University’s Vice President for Enrollment Management and Student Success has never been one to shy away from new opportunities, no matter the risks or hard work associated with them. Because of this, Amy has garnered a well-earned reputation as a go-getter, so to speak. She completes each task assigned no matter the circumstances, even if it requires learning something new on the fly. This willingness to rise to the occasion has served her well during her long tenure at TU. According to her however, there is another cause for this ambition. Amy claims that as a woman, she has often had to work twice as hard as her male counterparts to be offered a seat at the proverbial table, and asserts that this remains an unfortunate reality for many female professionals",
+      "author": "sundar",
+      "id": 2
+    }
+  ]
+}
